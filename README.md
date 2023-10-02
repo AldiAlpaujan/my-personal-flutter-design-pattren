@@ -1,6 +1,6 @@
 # my_design_pattren
 
-This Project is my own design pattren
+This Project is my own design pattren, this pattren is using Getx State Management
 
 this project has:
 
